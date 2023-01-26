@@ -1,0 +1,40 @@
+h1 {
+	text-align: center;
+}
+
+.svarchik {
+	background: skyblue;
+	padding: 14px;
+}
+
+div {
+	background: bisque;
+	padding: 20px;
+}
+
+a {
+	color: #001cab;
+	text-decoration: none;
+}
+
+ul {
+	list-style: none;
+}
+
+li{
+	background: url(I9zSjJgkgKLvXevuFYNcDx4BpOgzag4ecB6ANZ8H6AMdAVL2UT4q8bhp1CFNJS202F0w0FqVTqE3Uoo52FpAJv0S.png);
+	background-repeat: no-repeat;
+	background-position: left;
+	background-size: contain;
+	padding-left: 30px;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+}
+
+.ABOBA {
+	font-style: italic;
+}
+
+span {
+	font-style: normal;
+}
